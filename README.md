@@ -20,4 +20,4 @@ This portfolio serves as a professional showcase of my development journey and h
 
 ---
 
-### [View Live Portfolio]() 
+### [View Live Portfolio](https://kajoiq.github.io/Portfolio-Template/) 
