@@ -17,7 +17,3 @@ This portfolio is designed to be fully responsive, adapting seamlessly to differ
 - JavaScript
 
 This portfolio serves as a professional showcase of my development journey and helps potential employers or clients understand my capabilities.
-
----
-
-### [View Live Portfolio](https://kajoiq.github.io/Portfolio-Template/) 
